@@ -9,11 +9,11 @@ Windows-first; python 3; SimCHN; ENG
 <br> **Settings 收合/展開：** 點第一行狀態欄（READY / STUDY / BREAK）即可切換；快捷鍵 S。
 <br> **Settings fold/unfold:** click the first status line (READY / STUDY / BREAK) to toggle; hotkey S.
 <br> **透明浮窗：** 三種方式切換——Settings 勾選 Floating、雙擊第一行狀態欄(READY/STUDYING/BREAK)、快捷鍵 F。浮窗時文字懸浮、視窗置頂。
+<br> **Floating transparency:** toggle in three ways—check “Floating” in Settings, double-click the first status line (READY/STUDYING/BREAK), or hotkey F. In floating mode, text floats and the window stays on top.
 
 <br><img width="500" height="318" alt="image" src="https://github.com/user-attachments/assets/aabbbbd1-b27e-4c61-9ceb-67c31099b2d3" />
 <img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/06e084b1-a8bd-4ad4-a08d-e2e07912a3ea" />
 
-<br> **Floating transparency:** toggle in three ways—check “Floating” in Settings, double-click the first status line (READY/STUDYING/BREAK), or hotkey F. In floating mode, text floats and the window stays on top.
 # 安裝Installaion
 1. 下載和安裝python。Download and install python.  `官網official website: python.org`
 2. 安裝嚮導（一打開的窗口）勾選 `Add Python to PATH`。In the installer, check `Add Python to PATH`.
