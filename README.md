@@ -9,7 +9,7 @@ Windows-first; python 3; SimCHN; ENG
 <br> **透明浮窗：** 三種方式切換——Settings 勾選 Floating、雙擊第一行狀態欄(READY/STUDYING/BREAK)、快捷鍵 F。浮窗時文字懸浮、視窗置頂。
 
 <br><img width="300" height="318" alt="image" src="https://github.com/user-attachments/assets/aabbbbd1-b27e-4c61-9ceb-67c31099b2d3" />
-<br><img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/06e084b1-a8bd-4ad4-a08d-e2e07912a3ea" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/06e084b1-a8bd-4ad4-a08d-e2e07912a3ea" />
 
 <br> **Floating transparency:** toggle in three ways—check “Floating” in Settings, double-click the first status line (READY/STUDYING/BREAK), or hotkey F. In floating mode, text floats and the window stays on top.
 # 安裝Installaion
@@ -18,11 +18,11 @@ Windows-first; python 3; SimCHN; ENG
 3. 放置文件Place files。將`pomodoro.pyw`放到一個資料夾，可選地將一個`*.wav`或`*.mp3`音頻文件和一個`*.ttf`字體文件放在同一個資料夾，程序會自動加載第一個找個的音頻與字體。Put `pomodoro.pyw` in a folder. Optionally drop a `*.wav` or `*.mp3` sound and a `*.ttf` font into the same folder, and the app auto-loads the first match.
 # 運行測試Run and Test
 # 佈局Layout
-<br><img width="300" height="488" alt="image" src="https://github.com/user-attachments/assets/e997868e-4376-4723-a726-be889c7389e0" />
 **三行頂部界面 Three-line Top Area**
 <br> 第一行 **狀態**（READY/STUDYING/BREAK/PAUSE）first line: **Status **(READY/STUDY/BREAK/PAUSE)
 <br> 第二行 **進度+倒計時** second line: **Progress + Countdown**
 <br> 第三行 **日期時間**（可隱藏）third line: **Date-tiem** (optional)
+<br><img width="300" height="488" alt="image" src="https://github.com/user-attachments/assets/e997868e-4376-4723-a726-be889c7389e0" />
 <br> **可摺疊設置欄 colaapsible Settings:** 
 <br>工具欄Toolbar（COLOR + SIZE + B/I/U）→ Timer（Sessions/Pomodoro/Break）→ 底欄Bottom bar（Start/Reset + Date/Floating）。
 <br><img width="300" height="312" alt="image" src="https://github.com/user-attachments/assets/c526d049-d4d4-458f-83e3-02d15ac05b02" />
